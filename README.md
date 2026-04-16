@@ -69,8 +69,29 @@ gcc bookstore.c -o bookstore
 
 **1.Main Menu**
 
+<img width="771" height="360" alt="Image" src="https://github.com/user-attachments/assets/61aead21-9d9d-4a2b-8859-4ec09358076d" />
 
+**2.Add**
 
+<img width="767" height="363" alt="Image" src="https://github.com/user-attachments/assets/cbb9d3f9-decb-45b6-a37e-d25b255f4e23" />
+
+**3.Delete**
+
+<img width="766" height="380" alt="Image" src="https://github.com/user-attachments/assets/db2a9b49-aac3-4ce9-8772-c5b55bd8fd60" />
+
+**4.Update**
+
+<img width="769" height="377" alt="Image" src="https://github.com/user-attachments/assets/2af8a5f2-569e-4515-9074-2f1f2bd8d68e" />
+
+**5.Search**
+
+<img width="777" height="292" alt="Image" src="https://github.com/user-attachments/assets/de638d5b-5168-4a3b-bbe1-a0a32f48ad97" />
+
+**6.Display**
+
+<img width="776" height="305" alt="Image" src="https://github.com/user-attachments/assets/fa6e1b98-9e2f-44b7-b2f9-57645eac3e6e" />
+
+---
 
 ## **🚀 Features**
 * Tree-based hierarchy
